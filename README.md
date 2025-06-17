@@ -50,6 +50,42 @@ Formato em Desenvolvimento de Software pelo IFPR com Pós Graduação em Data Sc
 
 
 ---
+### 🔒 Projetos Privados Relevantes
+
+Mesmo que não estejam públicos no GitHub, esses projetos representam parte essencial da minha experiência profissional com desenvolvimento de software, integração de dados e automação de processos:
+
+---
+
+#### 🛠️ Sistema de Migração de Dados entre ERP's
+- **Tecnologias:** Python, Delphi, SQL Server, Pandas
+- **Descrição:** Software completo de extração, transformação e carga de dados entre sistemas ERP legados e modernos.
+- **Destaques:**
+  - Pipeline com múltiplas camadas de validação
+  - Logs estruturados e rastreáveis
+  - Redução de falhas humanas no processo de migração
+
+---
+
+#### 🔁 Plataforma de Integração ETL Automatizada
+- **Tecnologias:** Python, Airflow, MongoDB, Redis
+- **Descrição:** Pipeline automatizado para coleta, transformação e sincronização de dados entre APIs, arquivos CSV e bancos relacionais.
+- **Destaques:**
+  - Agendamento dinâmico com Airflow
+  - Monitoramento com dashboard interno
+  - Escalável e de fácil manutenção
+
+---
+
+#### 🧰 Ferramentas internas em Delphi e COBOL
+- **Tecnologias:** Delphi, COBOL, Oracle, PostgreSQL, AWS
+- **Descrição:** Desenvolvimento e manutenção de ferramentas de apoio à operação bancária e industrial com integração entre sistemas.
+- **Destaques:**
+  - Atualização de sistemas legados com lógica crítica
+  - Interfaces otimizadas para usuários finais
+  - Segurança e consistência de dados garantidas
+
+---
+
 
 ## 📫 Como me encontrar:
 
