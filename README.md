@@ -43,13 +43,9 @@ Formato em Desenvolvimento de Software pelo IFPR com Pós Graduação em Data Sc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB (NoSQL)" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" title="Redis (NoSQL)" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-line.svg" height="40" title="Airflow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" title="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" title="SQLAlchemy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="Node.js" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Delphi_logo.png" height="40" title="Delphi" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/COBOL_logo.svg" height="40" title="COBOL" />
 </div>
 
 
