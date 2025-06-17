@@ -53,9 +53,9 @@ Formato em Desenvolvimento de Software pelo IFPR com Pós Graduação em Data Sc
 
 ## 📫 Como me encontrar:
 
-- 🌐 [Plano de Aula Inteligente]([https://seudominio.com](https://www.planodeaulainteligente.com.br/))
+- 🌐 [Plano de Aula Inteligente](https://www.planodeaulainteligente.com.br/)
 - ✉️ wtrambuch@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/willer-seno-trambuch-998915119/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/willer-seno-trambuch-998915119/)
 
 ---
 
